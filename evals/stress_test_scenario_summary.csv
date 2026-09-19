@@ -1,0 +1,13 @@
+scenario,calendars,avg_scheduled_hours,avg_nominal_open_hours,avg_double_booked_excess,avg_team_hours,avg_customer_events,avg_ai_blocks,avg_fragmented_hours,avg_back_to_back
+ai_labeled,8,20.11,27.39,0.0,7.62,2.25,11.19,4.3,7.12
+back_to_back,8,35.03,12.47,0.0,19.25,4.5,0.0,0.0,26.5
+balanced,8,16.67,30.83,0.0,9.35,2.66,0.0,3.55,6.25
+customer_heavy,8,23.59,23.91,0.0,18.6,20.03,0.0,4.96,9.53
+dense,9,29.91,17.59,0.0,16.55,4.81,0.0,7.43,12.28
+double_booked,9,28.26,19.24,5.52,18.48,7.42,0.0,5.57,10.83
+fragmented,9,24.69,22.81,0.0,13.44,4.56,0.0,10.77,0.0
+mixed_complex,8,30.38,17.12,5.64,18.89,7.78,0.0,6.36,12.59
+protected_strategy,8,19.92,27.58,0.0,7.43,2.88,0.0,4.03,8.47
+sparse,8,4.04,43.46,0.0,2.62,0.81,0.0,0.46,0.94
+team_heavy,9,26.67,20.83,0.0,22.72,0.0,0.0,5.85,11.03
+tentative_heavy,8,23.93,23.57,0.0,12.84,3.62,0.0,4.89,10.28
