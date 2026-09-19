@@ -1,0 +1,194 @@
+date,start_time,end_time,event_title,recurring,category,attendees,leader_attending,status
+2026-09-21,08:00,08:45,Weekly Planning & Priorities,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-21,08:15,09:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-09-21,08:00,08:45,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-09-21,08:00,08:45,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-09-21,08:00,08:45,Tentative leadership discussion,No,Leadership,CRO;Maya,yes,tentative
+2026-09-21,09:00,10:00,Sales Leadership Team,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-09-21,10:00,11:00,1:1 — East Region VP,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-09-21,11:00,12:00,Pipeline Review — Enterprise,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-09-21,12:00,12:30,Lunch,Yes,1:1,Regional VP,yes,confirmed
+2026-09-21,12:30,13:30,Customer / Deal Strategy,No,Strategy,,yes,confirmed
+2026-09-21,14:00,15:00,1:1 — West Region VP,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-21,15:00,16:00,Revenue Operations Sync,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-09-21,16:15,17:00,Cross-Functional Follow-up,No,Pipeline,Account team;Customer,yes,confirmed
+2026-09-22,08:00,09:00,Forecast Prep,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-09-22,09:00,10:00,Executive Revenue Meeting,Yes,1:1,Regional VP,yes,confirmed
+2026-09-22,10:00,11:00,1:1 — Central Region VP,Yes,Strategy,,yes,confirmed
+2026-09-22,10:15,11:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-09-22,11:00,12:00,Customer Call — Strategic Account,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-22,12:00,13:00,Pipeline Review — Commercial,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-09-22,12:00,13:00,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-09-22,13:00,14:00,Deal Desk,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-09-22,14:30,15:30,1:1 — Sales Enablement Lead,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-09-22,16:00,17:00,Product + Sales Sync,Yes,1:1,Regional VP,yes,confirmed
+2026-09-23,08:30,09:15,Territory / Coverage Review,No,Strategy,,yes,confirmed
+2026-09-23,08:30,09:15,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-09-23,09:30,10:30,1:1 — Strategic Accounts VP,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-23,10:30,11:30,Customer Escalation / Deal Support,No,Leadership,CRO;Finance,yes,confirmed
+2026-09-23,10:30,11:30,Tentative leadership discussion,No,Leadership,CRO;Maya,yes,tentative
+2026-09-23,11:30,12:30,Marketing + Sales Pipeline,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-09-23,13:00,14:00,Hiring / Talent Review,No,Internal,Marketing;Enablement,yes,confirmed
+2026-09-23,14:00,15:00,1:1 — Channel Sales VP,Yes,1:1,Regional VP,yes,confirmed
+2026-09-23,14:15,15:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-09-23,15:15,16:00,Sales Ops Working Session,No,Strategy,,yes,confirmed
+2026-09-24,08:00,09:00,Regional Business Review,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-24,09:00,10:00,1:1 — SMB Sales VP,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-09-24,10:00,11:00,Finance + Sales Forecast,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-09-24,10:00,11:00,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-09-24,11:00,12:00,Customer Call — Renewal / Expansion,No,Internal,Marketing;Enablement,yes,confirmed
+2026-09-24,12:30,13:30,Sales Enablement,Yes,1:1,Regional VP,yes,confirmed
+2026-09-24,13:30,14:30,Cross-Functional Operating Review,Yes,Strategy,,yes,confirmed
+2026-09-24,15:00,16:00,Deal Coaching,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-24,16:00,17:00,Internal Project Meeting,No,Leadership,CRO;Finance,yes,confirmed
+2026-09-25,08:00,08:45,Weekly Forecast Close,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-09-25,09:00,10:30,Strategy & Planning,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-09-25,09:15,10:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-09-25,11:00,12:00,1:1 — Chief Revenue Officer,Yes,1:1,Regional VP,yes,confirmed
+2026-09-25,11:00,12:00,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-09-25,13:00,14:00,Sales Leadership Follow-up,Yes,Strategy,,yes,confirmed
+2026-09-25,14:30,15:30,Customer / Executive Sponsor Call,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-25,16:00,16:30,Weekly Wrap-Up,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-09-28,08:00,08:45,Weekly Planning & Priorities,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-09-28,08:00,08:45,Tentative leadership discussion,No,Leadership,CRO;Maya,yes,tentative
+2026-09-28,09:00,10:00,Sales Leadership Team,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-09-28,09:00,10:00,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-09-28,10:00,11:00,1:1 — East Region VP,Yes,1:1,Regional VP,yes,confirmed
+2026-09-28,11:00,12:00,Pipeline Review — Enterprise,Yes,Strategy,,yes,confirmed
+2026-09-28,12:00,12:30,Lunch,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-28,12:30,13:30,Customer / Deal Strategy,No,Leadership,CRO;Finance,yes,confirmed
+2026-09-28,14:00,15:00,1:1 — West Region VP,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-09-28,14:15,15:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-09-28,15:00,16:00,Revenue Operations Sync,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-09-28,16:15,17:00,Cross-Functional Follow-up,No,1:1,Regional VP,yes,confirmed
+2026-09-29,08:00,09:00,Forecast Prep,Yes,Strategy,,yes,confirmed
+2026-09-29,09:00,10:00,Executive Revenue Meeting,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-29,10:00,11:00,1:1 — Central Region VP,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-09-29,11:00,12:00,Customer Call — Strategic Account,No,Pipeline,Account team;Customer,yes,confirmed
+2026-09-29,12:00,13:00,Pipeline Review — Commercial,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-09-29,12:00,13:00,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-09-29,13:00,14:00,Deal Desk,Yes,1:1,Regional VP,yes,confirmed
+2026-09-29,13:00,14:00,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-09-29,14:30,15:30,1:1 — Sales Enablement Lead,Yes,Strategy,,yes,confirmed
+2026-09-29,16:00,17:00,Product + Sales Sync,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-30,08:30,09:15,Territory / Coverage Review,No,Leadership,CRO;Finance,yes,confirmed
+2026-09-30,08:45,09:30,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-09-30,09:30,10:30,1:1 — Strategic Accounts VP,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-09-30,10:30,11:30,Customer Escalation / Deal Support,No,Internal,Marketing;Enablement,yes,confirmed
+2026-09-30,10:30,11:30,Tentative leadership discussion,No,Leadership,CRO;Maya,yes,tentative
+2026-09-30,11:30,12:30,Marketing + Sales Pipeline,Yes,1:1,Regional VP,yes,confirmed
+2026-09-30,12:30,13:00,Lunch,No,Strategy,,yes,confirmed
+2026-09-30,13:00,14:00,Hiring / Talent Review,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-09-30,14:00,15:00,1:1 — Channel Sales VP,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-09-30,15:15,16:00,Sales Ops Working Session,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-01,08:00,09:00,Regional Business Review,No,Internal,Marketing;Enablement,yes,confirmed
+2026-10-01,09:00,10:00,1:1 — SMB Sales VP,Yes,1:1,Regional VP,yes,confirmed
+2026-10-01,10:00,11:00,Finance + Sales Forecast,Yes,Strategy,,yes,confirmed
+2026-10-01,10:00,11:00,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-10-01,11:00,12:00,Customer Call — Renewal / Expansion,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-01,11:15,12:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-10-01,12:30,13:30,Sales Enablement,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-01,13:30,14:30,Cross-Functional Operating Review,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-10-01,13:30,14:30,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-10-01,15:00,16:00,Deal Coaching,No,Internal,Marketing;Enablement,yes,confirmed
+2026-10-02,08:00,08:45,Weekly Forecast Close,Yes,1:1,Regional VP,yes,confirmed
+2026-10-02,09:00,10:30,Strategy & Planning,Yes,Strategy,,yes,confirmed
+2026-10-02,11:00,12:00,1:1 — Chief Revenue Officer,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-02,13:00,14:00,Sales Leadership Follow-up,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-02,16:00,16:30,Weekly Wrap-Up,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-10-05,08:00,08:45,Weekly Planning & Priorities,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-05,09:00,10:00,Sales Leadership Team,Yes,1:1,Regional VP,yes,confirmed
+2026-10-05,09:00,10:00,Tentative leadership discussion,No,Leadership,CRO;Maya,yes,tentative
+2026-10-05,10:00,11:00,1:1 — East Region VP,Yes,Strategy,,yes,confirmed
+2026-10-05,10:15,11:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-10-05,11:00,12:00,Pipeline Review — Enterprise,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-05,11:00,12:00,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-10-05,12:00,12:30,Lunch,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-05,12:30,13:30,Customer / Deal Strategy,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-05,14:00,15:00,1:1 — West Region VP,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-05,15:00,16:00,Revenue Operations Sync,Yes,1:1,Regional VP,yes,confirmed
+2026-10-06,08:00,09:00,Forecast Prep,Yes,Strategy,,yes,confirmed
+2026-10-06,09:00,10:00,Executive Revenue Meeting,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-06,10:00,11:00,1:1 — Central Region VP,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-06,10:00,11:00,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-10-06,11:00,12:00,Customer Call — Strategic Account,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-06,12:00,13:00,Pipeline Review — Commercial,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-06,13:00,14:00,Deal Desk,Yes,1:1,Regional VP,yes,confirmed
+2026-10-06,13:15,14:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-10-06,14:30,15:30,1:1 — Sales Enablement Lead,Yes,Strategy,,yes,confirmed
+2026-10-06,16:00,17:00,Product + Sales Sync,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-07,08:30,09:15,Territory / Coverage Review,No,Leadership,CRO;Finance,yes,confirmed
+2026-10-07,08:30,09:15,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-10-07,09:30,10:30,1:1 — Strategic Accounts VP,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-10-07,10:30,11:30,Customer Escalation / Deal Support,No,Internal,Marketing;Enablement,yes,confirmed
+2026-10-07,11:30,12:30,Marketing + Sales Pipeline,Yes,1:1,Regional VP,yes,confirmed
+2026-10-07,13:00,14:00,Hiring / Talent Review,No,Strategy,,yes,confirmed
+2026-10-07,13:00,14:00,Tentative leadership discussion,No,Leadership,CRO;Maya,yes,tentative
+2026-10-07,14:00,15:00,1:1 — Channel Sales VP,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-07,15:15,16:00,Sales Ops Working Session,No,Leadership,CRO;Finance,yes,confirmed
+2026-10-08,08:00,09:00,Quarterly Deal Strategy,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-08,09:00,10:00,1:1 — SMB Sales VP,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-08,09:15,10:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-10-08,10:00,11:00,Finance + Sales Forecast,Yes,1:1,Regional VP,yes,confirmed
+2026-10-08,11:00,12:00,Customer Call — Renewal / Expansion,No,Strategy,,yes,confirmed
+2026-10-08,12:30,13:30,Sales Enablement,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-08,12:30,13:30,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-10-08,13:30,14:30,Cross-Functional Operating Review,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-08,15:00,16:00,Deal Coaching,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-08,15:00,16:00,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-10-08,16:00,17:00,Internal Project Meeting,No,Internal,Marketing;Enablement,yes,confirmed
+2026-10-09,08:00,08:45,Weekly Forecast Close,Yes,1:1,Regional VP,yes,confirmed
+2026-10-09,09:00,10:30,Strategy & Planning,Yes,Strategy,,yes,confirmed
+2026-10-09,11:00,12:00,1:1 — Chief Revenue Officer,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-09,13:00,14:00,Sales Leadership Follow-up,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-09,14:30,15:30,Customer / Executive Sponsor Call,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-09,14:45,15:30,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-10-09,16:00,16:30,Weekly Wrap-Up,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-12,08:00,08:45,Weekly Planning & Priorities,Yes,1:1,Regional VP,yes,confirmed
+2026-10-12,09:00,10:00,Sales Leadership Team,Yes,Strategy,,yes,confirmed
+2026-10-12,10:00,11:00,1:1 — East Region VP,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-12,10:00,11:00,Tentative leadership discussion,No,Leadership,CRO;Maya,yes,tentative
+2026-10-12,11:00,12:00,Pipeline Review — Enterprise,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-12,12:00,12:30,Lunch,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-12,12:30,13:30,Customer / Deal Strategy,No,Internal,Marketing;Enablement,yes,confirmed
+2026-10-12,12:30,13:30,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-10-12,14:00,15:00,1:1 — West Region VP,Yes,1:1,Regional VP,yes,confirmed
+2026-10-12,15:00,16:00,Revenue Operations Sync,Yes,Strategy,,yes,confirmed
+2026-10-12,15:00,16:00,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-10-12,16:15,17:00,Cross-Functional Follow-up,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-13,08:00,09:00,Forecast Prep,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-13,08:15,09:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-10-13,09:00,10:00,Executive Revenue Meeting,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-10-13,10:00,11:00,1:1 — Central Region VP,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-13,11:00,12:00,Customer Call — Strategic Account,No,1:1,Regional VP,yes,confirmed
+2026-10-13,12:00,13:00,Pipeline Review — Commercial,Yes,Strategy,,yes,confirmed
+2026-10-13,13:00,14:00,Deal Desk,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-13,14:30,15:30,1:1 — Sales Enablement Lead,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-13,16:00,17:00,Product + Sales Sync,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-10-14,08:30,09:15,Territory / Coverage Review,No,Internal,Marketing;Enablement,yes,confirmed
+2026-10-14,09:30,10:30,1:1 — Strategic Accounts VP,Yes,1:1,Regional VP,yes,confirmed
+2026-10-14,09:30,10:30,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-10-14,10:30,11:30,Customer Escalation / Deal Support,No,Strategy,,yes,confirmed
+2026-10-14,11:30,12:30,Marketing + Sales Pipeline,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-14,11:45,12:30,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-10-14,12:30,13:00,Lunch,No,Leadership,CRO;Finance,yes,confirmed
+2026-10-14,12:30,13:00,Tentative leadership discussion,No,Leadership,CRO;Maya,yes,tentative
+2026-10-14,13:00,14:00,Hiring / Talent Review,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-14,14:00,15:00,1:1 — Channel Sales VP,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-14,15:15,16:00,Sales Ops Working Session,No,1:1,Regional VP,yes,confirmed
+2026-10-14,15:15,16:00,Declined customer call,No,Customer,Customer;Maya,yes,declined
+2026-10-15,08:00,09:00,Regional Business Review,No,Strategy,,yes,confirmed
+2026-10-15,09:00,10:00,1:1 — SMB Sales VP,Yes,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-15,10:00,11:00,Finance + Sales Forecast,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-15,11:00,12:00,Customer Call — Renewal / Expansion,No,Pipeline,Account team;Customer,yes,confirmed
+2026-10-15,12:30,13:30,Sales Enablement,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-15,13:30,14:30,Cross-Functional Operating Review,Yes,1:1,Regional VP,yes,confirmed
+2026-10-15,15:00,16:00,Deal Coaching,No,Strategy,,yes,confirmed
+2026-10-15,15:15,16:00,Conflicting customer escalation,No,Customer,Customer;Account team,yes,confirmed
+2026-10-15,15:00,16:00,Team pipeline huddle (Maya absent),No,Pipeline,Sales directors;Account team,no,confirmed
+2026-10-15,16:00,17:00,Internal Project Meeting,No,Customer,Sales directors;Revenue ops,yes,confirmed
+2026-10-16,08:00,08:45,Weekly Forecast Close,Yes,Leadership,CRO;Finance,yes,confirmed
+2026-10-16,09:00,10:30,Strategy & Planning,Yes,Pipeline,Account team;Customer,yes,confirmed
+2026-10-16,11:00,12:00,1:1 — Chief Revenue Officer,Yes,Internal,Marketing;Enablement,yes,confirmed
+2026-10-16,13:00,14:00,Sales Leadership Follow-up,Yes,1:1,Regional VP,yes,confirmed
+2026-10-16,16:00,16:30,Weekly Wrap-Up,Yes,Strategy,,yes,confirmed
