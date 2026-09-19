@@ -1,0 +1,23 @@
+date,start_time,end_time,event_title,recurring,category,attendees,leader_attending,status
+2026-01-05,08:00,09:00,Leadership Sync,No,leadership,Marketing VP;Product VP,yes,confirmed
+2026-01-05,09:00,09:30,Pipeline Review,No,pipeline,Regional VP;Sales Ops;West Sales Director,yes,confirmed
+2026-01-05,09:45,10:45,Learning Block,No,learning,,yes,confirmed
+2026-01-07,08:00,08:45,Pipeline Review,No,pipeline,East Sales Director;Enablement Lead;Revenue Ops,yes,confirmed
+2026-01-07,08:55,09:25,Customer / Account Review,No,customer,Customer;Enablement Lead,yes,confirmed
+2026-01-09,08:00,09:00,Team Coaching,No,team,Enablement Lead,yes,confirmed
+2026-01-09,09:30,10:30,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-12,08:00,08:45,Forecast Review,No,forecast,Sales Ops;East Sales Director,yes,confirmed
+2026-01-14,08:00,09:00,Pipeline Review,No,pipeline,Regional VP;East Sales Director,no,confirmed
+2026-01-14,09:30,10:30,Forecast Review,No,forecast,Sales Rep;East Sales Director;Regional VP,yes,confirmed
+2026-01-14,11:00,12:00,Team Coaching,No,team,East Sales Director;Regional VP,yes,confirmed
+2026-01-16,08:00,09:00,Pipeline Review,No,pipeline,West Sales Director;Regional VP;Enablement Lead,yes,confirmed
+2026-01-16,09:30,10:30,Leadership Sync,No,leadership,CFO;Finance,yes,confirmed
+2026-01-19,08:00,09:00,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-21,08:00,09:00,Forecast Review,No,forecast,Enablement Lead;Sales Ops;Account Team,yes,confirmed
+2026-01-21,09:00,09:45,Internal Working Session,No,internal,Regional VP;Finance,yes,confirmed
+2026-01-26,08:00,08:30,Learning Block,No,learning,,yes,confirmed
+2026-01-26,08:45,09:45,Customer / Account Review,No,customer,Customer;East Sales Director,yes,confirmed
+2026-01-26,09:45,10:30,Pipeline Review,No,pipeline,Account Team;Sales Rep,yes,confirmed
+2026-01-28,08:00,08:30,Leadership Sync,No,leadership,Product VP,yes,confirmed
+2026-01-30,08:00,08:30,Customer / Account Review,No,customer,Customer;Regional VP,yes,confirmed
+2026-01-30,08:40,09:10,Internal Working Session,No,internal,East Sales Director;Sales Rep;Marketing VP,yes,confirmed

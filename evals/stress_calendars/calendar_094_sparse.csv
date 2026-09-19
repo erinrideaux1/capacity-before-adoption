@@ -1,0 +1,26 @@
+date,start_time,end_time,event_title,recurring,category,attendees,leader_attending,status
+2026-01-05,08:00,09:00,Forecast Review,No,forecast,Account Team,yes,confirmed
+2026-01-05,09:00,10:00,Pipeline Review,No,pipeline,Sales Ops,yes,confirmed
+2026-01-07,08:00,08:30,Pipeline Review,No,pipeline,Sales Ops;East Sales Director,yes,confirmed
+2026-01-07,09:00,10:00,Customer / Account Review,No,customer,Customer;West Sales Director,yes,confirmed
+2026-01-09,08:00,09:00,Strategy & Planning,No,strategy,,no,confirmed
+2026-01-09,09:15,10:00,Forecast Review,No,forecast,Account Team;East Sales Director,yes,confirmed
+2026-01-09,10:30,11:15,Internal Working Session,No,internal,CFO;Sales Rep,yes,confirmed
+2026-01-12,08:00,08:30,Customer / Account Review,No,customer,Customer;West Sales Director,yes,confirmed
+2026-01-14,08:00,08:45,Internal Working Session,No,internal,CRO;CFO,yes,confirmed
+2026-01-14,08:45,09:45,Customer / Account Review,No,customer,Customer;Account Team,yes,confirmed
+2026-01-16,08:00,09:00,Forecast Review,No,forecast,Enablement Lead;Regional VP;East Sales Director,yes,confirmed
+2026-01-16,09:10,09:55,Internal Working Session,No,internal,West Sales Director;CRO,yes,confirmed
+2026-01-16,09:55,10:40,Forecast Review,No,forecast,Regional VP;Sales Ops;East Sales Director,yes,confirmed
+2026-01-19,08:00,08:45,Leadership Sync,No,leadership,CFO;Product VP,yes,confirmed
+2026-01-19,09:00,10:00,Team Coaching,No,team,Enablement Lead;Sales Rep,yes,confirmed
+2026-01-19,10:00,10:45,Team Coaching,No,team,Enablement Lead;Sales Rep,no,confirmed
+2026-01-21,08:00,08:45,Customer / Account Review,No,customer,Customer;Enablement Lead;Revenue Ops,yes,confirmed
+2026-01-21,08:55,09:55,Leadership Sync,No,leadership,CFO,yes,confirmed
+2026-01-21,10:05,10:50,Forecast Review,No,forecast,Sales Rep;Account Team;Regional VP,yes,cancelled
+2026-01-26,08:00,08:45,Leadership Sync,No,leadership,CFO,yes,confirmed
+2026-01-26,09:15,10:15,Pipeline Review,No,pipeline,Account Team;Revenue Ops,yes,confirmed
+2026-01-26,10:15,11:00,Internal Working Session,No,internal,Legal,yes,confirmed
+2026-01-28,08:00,08:30,Internal Working Session,No,internal,CRO,yes,confirmed
+2026-01-30,08:00,08:45,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-30,08:45,09:30,Team Coaching,No,team,Account Team,yes,confirmed

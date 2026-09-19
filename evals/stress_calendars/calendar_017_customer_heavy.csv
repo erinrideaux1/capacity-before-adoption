@@ -1,0 +1,132 @@
+date,start_time,end_time,event_title,recurring,category,attendees,leader_attending,status
+2026-01-05,08:00,08:45,Pipeline Review,No,pipeline,Regional VP,yes,confirmed
+2026-01-05,09:00,09:45,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-05,09:55,10:40,Team Coaching,No,team,Account Team,no,confirmed
+2026-01-05,10:40,11:40,Customer / Account Review,No,customer,Customer;Regional VP,yes,confirmed
+2026-01-05,11:40,12:40,Pipeline Review,No,pipeline,Revenue Ops,yes,confirmed
+2026-01-05,12:50,13:50,Team Coaching,No,team,Sales Ops;Revenue Ops;Enablement Lead,yes,confirmed
+2026-01-06,08:00,09:00,Customer / Account Review,No,customer,Customer;Sales Rep,yes,confirmed
+2026-01-06,09:00,09:45,Customer / Account Review,No,customer,Customer;West Sales Director,yes,confirmed
+2026-01-06,09:45,10:45,Customer / Account Review,No,customer,Customer;Revenue Ops,yes,confirmed
+2026-01-06,10:45,11:45,Customer / Account Review,No,customer,Customer;Sales Rep;Account Team,yes,confirmed
+2026-01-06,11:45,12:30,Pipeline Review,No,pipeline,Sales Ops,yes,confirmed
+2026-01-06,13:00,13:30,Pipeline Review,No,pipeline,West Sales Director;Sales Rep,yes,confirmed
+2026-01-07,08:00,08:45,Team Coaching,No,team,West Sales Director;Sales Rep,yes,confirmed
+2026-01-07,09:15,10:15,Customer / Account Review,No,customer,Customer;East Sales Director;Sales Ops,yes,declined
+2026-01-07,10:25,10:55,Customer / Account Review,No,customer,Customer;Account Team;Sales Rep,yes,confirmed
+2026-01-07,11:05,11:35,Pipeline Review,No,pipeline,Sales Ops;West Sales Director,yes,confirmed
+2026-01-07,11:50,12:50,Pipeline Review,No,pipeline,West Sales Director,yes,confirmed
+2026-01-07,13:00,14:00,Customer / Account Review,No,customer,Customer;Account Team,yes,confirmed
+2026-01-07,14:10,14:40,Pipeline Review,No,pipeline,Sales Ops;Enablement Lead;Account Team,yes,confirmed
+2026-01-07,15:10,15:55,Pipeline Review,No,pipeline,Account Team;Revenue Ops;West Sales Director,yes,cancelled
+2026-01-08,08:00,08:30,Pipeline Review,No,pipeline,Enablement Lead;Account Team,yes,confirmed
+2026-01-08,09:00,10:00,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-08,10:15,10:45,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-08,10:55,11:25,Customer / Account Review,No,customer,Customer;Sales Ops,yes,confirmed
+2026-01-08,11:35,12:05,Customer / Account Review,No,customer,Customer;Sales Ops;Account Team,yes,confirmed
+2026-01-08,12:20,12:50,Pipeline Review,No,pipeline,East Sales Director;West Sales Director,yes,confirmed
+2026-01-09,08:00,08:30,Customer / Account Review,No,customer,Customer;Enablement Lead,yes,confirmed
+2026-01-09,08:45,09:30,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-09,09:40,10:25,Pipeline Review,No,pipeline,Regional VP;West Sales Director,yes,confirmed
+2026-01-09,10:25,11:25,Pipeline Review,No,pipeline,Account Team,yes,confirmed
+2026-01-09,11:55,12:55,Pipeline Review,No,pipeline,Enablement Lead,yes,confirmed
+2026-01-09,13:05,13:35,Customer / Account Review,No,customer,Customer,no,confirmed
+2026-01-12,08:00,08:30,Customer / Account Review,No,customer,Customer;Enablement Lead;Sales Ops,yes,confirmed
+2026-01-12,08:40,09:25,Pipeline Review,No,pipeline,Revenue Ops;Account Team,yes,cancelled
+2026-01-12,09:25,09:55,Customer / Account Review,No,customer,Customer;East Sales Director,yes,confirmed
+2026-01-12,09:55,10:55,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-12,11:05,11:35,Customer / Account Review,No,customer,Customer;West Sales Director;Sales Rep,yes,confirmed
+2026-01-12,12:05,13:05,Pipeline Review,No,pipeline,Sales Rep;West Sales Director,yes,confirmed
+2026-01-13,08:00,08:30,Pipeline Review,No,pipeline,West Sales Director,yes,confirmed
+2026-01-13,08:30,09:15,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-13,09:15,10:00,Team Coaching,No,team,West Sales Director;Enablement Lead,yes,confirmed
+2026-01-13,10:00,10:45,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-13,11:00,11:30,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-13,11:30,12:00,Team Coaching,No,team,West Sales Director,yes,cancelled
+2026-01-13,12:00,12:45,Customer / Account Review,No,customer,Customer;Regional VP,yes,confirmed
+2026-01-14,08:00,09:00,Customer / Account Review,No,customer,Customer;East Sales Director;West Sales Director,yes,confirmed
+2026-01-14,09:10,10:10,Pipeline Review,No,pipeline,Enablement Lead,yes,confirmed
+2026-01-14,10:20,11:05,Team Coaching,No,team,Revenue Ops,yes,confirmed
+2026-01-14,11:15,11:45,Pipeline Review,No,pipeline,Revenue Ops,yes,cancelled
+2026-01-14,11:55,12:40,Customer / Account Review,No,customer,Customer;West Sales Director;Sales Rep,yes,confirmed
+2026-01-14,12:50,13:35,Customer / Account Review,No,customer,Customer;Sales Ops;Account Team,yes,confirmed
+2026-01-15,08:00,09:00,Pipeline Review,No,pipeline,East Sales Director,yes,confirmed
+2026-01-15,09:00,09:45,Customer / Account Review,No,customer,Customer;Sales Ops;East Sales Director,yes,confirmed
+2026-01-15,09:45,10:45,Pipeline Review,No,pipeline,Sales Ops;Sales Rep;Revenue Ops,yes,confirmed
+2026-01-15,11:00,11:30,Pipeline Review,No,pipeline,Enablement Lead;Regional VP,yes,confirmed
+2026-01-15,11:30,12:15,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-15,12:25,12:55,Customer / Account Review,No,customer,Customer;East Sales Director;Account Team,yes,confirmed
+2026-01-15,13:05,13:35,Pipeline Review,No,pipeline,Sales Ops,yes,confirmed
+2026-01-16,08:00,09:00,Customer / Account Review,No,customer,Customer;Regional VP;West Sales Director,yes,confirmed
+2026-01-16,09:10,09:55,Customer / Account Review,No,customer,Customer;Sales Ops;Enablement Lead,yes,declined
+2026-01-16,09:55,10:25,Customer / Account Review,No,customer,Customer;Sales Ops,yes,confirmed
+2026-01-16,10:55,11:55,Customer / Account Review,No,customer,Customer;Sales Ops,yes,confirmed
+2026-01-16,12:05,13:05,Customer / Account Review,No,customer,Customer;Regional VP,yes,confirmed
+2026-01-16,13:05,13:50,Customer / Account Review,No,customer,Customer;Account Team,yes,confirmed
+2026-01-16,13:50,14:50,Customer / Account Review,No,customer,Customer;East Sales Director;West Sales Director,yes,cancelled
+2026-01-19,08:00,09:00,Pipeline Review,No,pipeline,East Sales Director;Sales Ops,yes,confirmed
+2026-01-19,09:30,10:30,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-19,10:30,11:30,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-19,12:00,13:00,Customer / Account Review,No,customer,Customer;Regional VP;Sales Rep,yes,confirmed
+2026-01-19,13:15,14:15,Customer / Account Review,No,customer,Customer;Enablement Lead,yes,confirmed
+2026-01-19,14:15,14:45,Customer / Account Review,No,customer,Customer;East Sales Director;Sales Rep,yes,confirmed
+2026-01-19,14:45,15:30,Customer / Account Review,No,customer,Customer;East Sales Director;Sales Ops,yes,cancelled
+2026-01-20,08:00,09:00,Customer / Account Review,No,customer,Customer;Enablement Lead;Sales Ops,yes,confirmed
+2026-01-20,09:00,10:00,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-20,10:00,10:30,Customer / Account Review,No,customer,Customer;West Sales Director;Regional VP,no,confirmed
+2026-01-20,10:30,11:00,Customer / Account Review,No,customer,Customer;Sales Rep,yes,confirmed
+2026-01-20,11:30,12:30,Customer / Account Review,No,customer,Customer;Enablement Lead,yes,confirmed
+2026-01-20,12:30,13:30,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-21,08:00,09:00,Team Coaching,No,team,Regional VP,yes,confirmed
+2026-01-21,09:30,10:00,Team Coaching,No,team,West Sales Director;Sales Ops;Regional VP,yes,confirmed
+2026-01-21,10:15,10:45,Team Coaching,No,team,Regional VP;Sales Ops;Account Team,yes,confirmed
+2026-01-21,10:55,11:55,Customer / Account Review,No,customer,Customer;West Sales Director;East Sales Director,yes,declined
+2026-01-21,12:10,12:55,Pipeline Review,No,pipeline,East Sales Director;Regional VP,yes,confirmed
+2026-01-21,13:05,13:35,Customer / Account Review,No,customer,Customer;East Sales Director,yes,confirmed
+2026-01-22,08:00,09:00,Customer / Account Review,No,customer,Customer;Regional VP,yes,confirmed
+2026-01-22,09:00,10:00,Customer / Account Review,No,customer,Customer;West Sales Director;Revenue Ops,yes,cancelled
+2026-01-22,10:00,10:45,Customer / Account Review,No,customer,Customer;East Sales Director;West Sales Director,yes,confirmed
+2026-01-22,10:45,11:45,Customer / Account Review,No,customer,Customer;Enablement Lead,yes,confirmed
+2026-01-22,12:15,13:15,Customer / Account Review,No,customer,Customer;Regional VP,yes,confirmed
+2026-01-22,13:15,14:00,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-22,14:15,15:00,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-23,08:00,08:45,Customer / Account Review,No,customer,Customer;Enablement Lead,yes,confirmed
+2026-01-23,09:00,10:00,Pipeline Review,No,pipeline,Revenue Ops;Sales Rep,yes,confirmed
+2026-01-23,10:30,11:00,Customer / Account Review,No,customer,Customer;Revenue Ops,yes,confirmed
+2026-01-23,11:15,12:00,Pipeline Review,No,pipeline,West Sales Director;Account Team;Regional VP,yes,confirmed
+2026-01-23,12:10,13:10,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-23,13:40,14:40,Pipeline Review,No,pipeline,Sales Ops;Regional VP,yes,confirmed
+2026-01-23,15:10,15:40,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-26,08:00,08:45,Team Coaching,No,team,East Sales Director;Enablement Lead;Regional VP,yes,confirmed
+2026-01-26,08:55,09:55,Customer / Account Review,No,customer,Customer;Regional VP;Sales Ops,yes,confirmed
+2026-01-26,09:55,10:55,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-26,10:55,11:55,Team Coaching,No,team,West Sales Director;Sales Rep;East Sales Director,yes,confirmed
+2026-01-26,12:25,12:55,Customer / Account Review,No,customer,Customer;Enablement Lead,yes,confirmed
+2026-01-26,13:25,14:10,Team Coaching,No,team,Enablement Lead;Account Team;West Sales Director,yes,confirmed
+2026-01-27,08:00,09:00,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-27,09:00,09:30,Customer / Account Review,No,customer,Customer;Account Team;West Sales Director,yes,confirmed
+2026-01-27,09:30,10:00,Team Coaching,No,team,Regional VP;Sales Rep;Sales Ops,yes,confirmed
+2026-01-27,10:10,11:10,Customer / Account Review,No,customer,Customer;Regional VP;Enablement Lead,yes,confirmed
+2026-01-27,11:10,12:10,Pipeline Review,No,pipeline,Sales Rep;West Sales Director;Account Team,yes,confirmed
+2026-01-27,12:40,13:40,Pipeline Review,No,pipeline,Regional VP;Account Team,yes,confirmed
+2026-01-28,08:00,09:00,Customer / Account Review,No,customer,Customer;Sales Rep,yes,confirmed
+2026-01-28,09:00,09:45,Pipeline Review,No,pipeline,Revenue Ops;Sales Ops;Regional VP,yes,confirmed
+2026-01-28,10:15,11:15,Customer / Account Review,No,customer,Customer;East Sales Director,yes,confirmed
+2026-01-28,11:15,12:00,Customer / Account Review,No,customer,Customer;Enablement Lead;West Sales Director,yes,confirmed
+2026-01-28,12:00,12:45,Team Coaching,No,team,Revenue Ops;West Sales Director;Sales Rep,no,confirmed
+2026-01-28,12:45,13:30,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-28,13:30,14:30,Customer / Account Review,No,customer,Customer;Sales Ops;Enablement Lead,yes,confirmed
+2026-01-28,14:30,15:30,Customer / Account Review,No,customer,Customer;Sales Ops;Revenue Ops,yes,confirmed
+2026-01-29,08:00,08:45,Customer / Account Review,No,customer,Customer;Regional VP;Sales Ops,yes,confirmed
+2026-01-29,09:15,10:15,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-29,10:15,11:00,Customer / Account Review,No,customer,Customer;Sales Rep,yes,confirmed
+2026-01-29,11:00,11:30,Customer / Account Review,No,customer,Customer;West Sales Director;Account Team,yes,confirmed
+2026-01-29,12:00,12:45,Pipeline Review,No,pipeline,Enablement Lead;Revenue Ops,yes,confirmed
+2026-01-29,12:45,13:45,Customer / Account Review,No,customer,Customer;East Sales Director;Sales Ops,yes,confirmed
+2026-01-29,13:45,14:15,Pipeline Review,No,pipeline,Account Team;Enablement Lead,yes,confirmed
+2026-01-30,08:00,08:30,Pipeline Review,No,pipeline,Sales Ops;Account Team,yes,confirmed
+2026-01-30,09:00,09:45,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-30,09:55,10:40,Customer / Account Review,No,customer,Customer;Regional VP,yes,confirmed
+2026-01-30,10:40,11:25,Pipeline Review,No,pipeline,Revenue Ops;Sales Rep;West Sales Director,yes,confirmed
+2026-01-30,11:25,11:55,Customer / Account Review,No,customer,Customer;East Sales Director,yes,confirmed
+2026-01-30,11:55,12:40,Team Coaching,No,team,Enablement Lead;Sales Rep,yes,confirmed

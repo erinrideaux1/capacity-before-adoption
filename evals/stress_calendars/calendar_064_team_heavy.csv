@@ -1,0 +1,159 @@
+date,start_time,end_time,event_title,recurring,category,attendees,leader_attending,status
+2026-01-05,08:00,09:00,Pipeline Review,No,pipeline,East Sales Director,yes,confirmed
+2026-01-05,09:00,09:45,Team Coaching,No,team,Sales Rep;Revenue Ops;Sales Ops,yes,confirmed
+2026-01-05,09:45,10:30,Team Coaching,No,team,Enablement Lead;Account Team,yes,confirmed
+2026-01-05,11:00,12:00,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-05,12:00,13:00,Pipeline Review,No,pipeline,Account Team;Sales Rep;East Sales Director,no,confirmed
+2026-01-05,13:00,14:00,Team Coaching,No,team,Sales Rep,yes,confirmed
+2026-01-05,14:10,15:10,Pipeline Review,No,pipeline,Regional VP;Account Team,yes,confirmed
+2026-01-06,08:00,08:30,Team Coaching,No,team,East Sales Director;Revenue Ops;Enablement Lead,yes,confirmed
+2026-01-06,08:30,09:00,Leadership Sync,No,leadership,CRO;Product VP,yes,confirmed
+2026-01-06,09:10,10:10,Team Coaching,No,team,Revenue Ops;Regional VP,yes,confirmed
+2026-01-06,10:20,10:50,Pipeline Review,No,pipeline,East Sales Director;Regional VP,yes,confirmed
+2026-01-06,11:00,11:30,Team Coaching,No,team,Revenue Ops,yes,confirmed
+2026-01-06,11:30,12:00,Team Coaching,No,team,Sales Rep;East Sales Director,yes,confirmed
+2026-01-06,12:00,13:00,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-06,13:00,14:00,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-07,08:00,08:30,Team Coaching,No,team,West Sales Director,yes,confirmed
+2026-01-07,08:40,09:40,Team Coaching,No,team,Account Team;Sales Ops;East Sales Director,yes,confirmed
+2026-01-07,09:40,10:10,Pipeline Review,No,pipeline,Enablement Lead;West Sales Director;Account Team,yes,confirmed
+2026-01-07,10:10,11:10,Team Coaching,No,team,Revenue Ops;West Sales Director;East Sales Director,yes,confirmed
+2026-01-07,11:10,11:40,Pipeline Review,No,pipeline,Sales Rep;Enablement Lead;Regional VP,yes,confirmed
+2026-01-07,11:50,12:20,Team Coaching,No,team,Sales Rep;Sales Ops;Regional VP,yes,confirmed
+2026-01-07,12:50,13:35,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-08,08:00,08:45,Pipeline Review,No,pipeline,East Sales Director;Regional VP,yes,confirmed
+2026-01-08,08:55,09:40,Pipeline Review,No,pipeline,Sales Ops;Sales Rep,yes,confirmed
+2026-01-08,09:50,10:20,Pipeline Review,No,pipeline,Account Team;Sales Rep,yes,cancelled
+2026-01-08,10:20,10:50,Pipeline Review,No,pipeline,Sales Ops;East Sales Director,yes,confirmed
+2026-01-08,10:50,11:35,Team Coaching,No,team,Sales Rep,yes,confirmed
+2026-01-08,11:45,12:45,Pipeline Review,No,pipeline,Regional VP,yes,confirmed
+2026-01-08,12:55,13:25,Leadership Sync,No,leadership,CFO,yes,confirmed
+2026-01-08,13:35,14:05,Team Coaching,No,team,East Sales Director;West Sales Director;Revenue Ops,yes,confirmed
+2026-01-08,14:20,14:50,Team Coaching,No,team,Revenue Ops;Regional VP,yes,confirmed
+2026-01-09,08:00,08:30,Leadership Sync,No,leadership,Legal;Finance,yes,confirmed
+2026-01-09,08:45,09:15,Leadership Sync,No,leadership,Product VP,yes,confirmed
+2026-01-09,09:15,10:15,Team Coaching,No,team,Sales Rep;West Sales Director,yes,confirmed
+2026-01-09,10:15,11:15,Team Coaching,No,team,East Sales Director;Sales Ops;Regional VP,yes,confirmed
+2026-01-09,11:30,12:00,Team Coaching,No,team,Revenue Ops;East Sales Director;West Sales Director,yes,confirmed
+2026-01-09,12:30,13:30,Pipeline Review,No,pipeline,Sales Ops;Revenue Ops;West Sales Director,yes,confirmed
+2026-01-09,13:30,14:00,Pipeline Review,No,pipeline,Enablement Lead;Sales Ops;West Sales Director,yes,declined
+2026-01-09,14:00,15:00,Team Coaching,No,team,Account Team;Enablement Lead,yes,confirmed
+2026-01-12,08:00,09:00,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-12,09:00,10:00,Team Coaching,No,team,Regional VP;East Sales Director;Revenue Ops,yes,confirmed
+2026-01-12,10:00,11:00,Pipeline Review,No,pipeline,East Sales Director;Account Team,yes,confirmed
+2026-01-12,11:00,11:30,Team Coaching,No,team,Revenue Ops,yes,confirmed
+2026-01-12,11:40,12:10,Team Coaching,No,team,Sales Rep;Sales Ops;Revenue Ops,yes,confirmed
+2026-01-12,12:40,13:10,Pipeline Review,No,pipeline,West Sales Director;Revenue Ops,yes,declined
+2026-01-12,13:10,13:40,Team Coaching,No,team,Sales Ops;Enablement Lead;Sales Rep,yes,confirmed
+2026-01-12,14:10,14:40,Pipeline Review,No,pipeline,Sales Rep,yes,confirmed
+2026-01-12,15:10,16:10,Pipeline Review,No,pipeline,Revenue Ops;Regional VP;Enablement Lead,yes,confirmed
+2026-01-13,08:00,08:45,Leadership Sync,No,leadership,Legal;Finance,yes,confirmed
+2026-01-13,09:15,09:45,Pipeline Review,No,pipeline,Account Team;Regional VP,yes,confirmed
+2026-01-13,09:55,10:40,Team Coaching,No,team,East Sales Director;Revenue Ops;Account Team,yes,confirmed
+2026-01-13,11:10,11:40,Pipeline Review,No,pipeline,Regional VP;East Sales Director,yes,confirmed
+2026-01-13,11:40,12:25,Leadership Sync,No,leadership,Legal,yes,confirmed
+2026-01-13,12:35,13:05,Leadership Sync,No,leadership,Finance,yes,declined
+2026-01-13,13:35,14:20,Team Coaching,No,team,Enablement Lead;East Sales Director,yes,confirmed
+2026-01-14,08:00,08:30,Team Coaching,No,team,Enablement Lead;Account Team,yes,confirmed
+2026-01-14,08:30,09:15,Team Coaching,No,team,Sales Ops;Revenue Ops;Enablement Lead,yes,confirmed
+2026-01-14,09:15,10:00,Team Coaching,No,team,Revenue Ops;West Sales Director,yes,confirmed
+2026-01-14,10:00,11:00,Pipeline Review,No,pipeline,Sales Ops;Revenue Ops;West Sales Director,yes,confirmed
+2026-01-14,11:15,12:00,Pipeline Review,No,pipeline,Account Team;Sales Ops,yes,confirmed
+2026-01-14,12:00,12:30,Pipeline Review,No,pipeline,Account Team;East Sales Director;Enablement Lead,yes,confirmed
+2026-01-14,12:30,13:30,Pipeline Review,No,pipeline,East Sales Director;Sales Rep,yes,confirmed
+2026-01-14,13:45,14:15,Team Coaching,No,team,Enablement Lead;Account Team;West Sales Director,yes,confirmed
+2026-01-15,08:00,09:00,Leadership Sync,No,leadership,Finance;CFO,no,confirmed
+2026-01-15,09:30,10:30,Team Coaching,No,team,Sales Ops;Sales Rep,yes,confirmed
+2026-01-15,10:30,11:30,Team Coaching,No,team,Revenue Ops;Account Team,yes,confirmed
+2026-01-15,11:45,12:15,Leadership Sync,No,leadership,CRO,yes,confirmed
+2026-01-15,12:25,13:10,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-15,13:10,13:55,Pipeline Review,No,pipeline,West Sales Director;Sales Rep,yes,confirmed
+2026-01-15,13:55,14:55,Team Coaching,No,team,Revenue Ops;Sales Ops,yes,confirmed
+2026-01-16,08:00,09:00,Team Coaching,No,team,Enablement Lead;West Sales Director;Sales Rep,yes,confirmed
+2026-01-16,09:00,09:45,Team Coaching,No,team,West Sales Director,yes,confirmed
+2026-01-16,10:00,10:30,Pipeline Review,No,pipeline,Enablement Lead;Sales Rep,yes,confirmed
+2026-01-16,10:30,11:15,Team Coaching,No,team,East Sales Director;Sales Ops,yes,confirmed
+2026-01-16,11:45,12:15,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-16,12:15,13:15,Pipeline Review,No,pipeline,Revenue Ops;Enablement Lead;West Sales Director,yes,confirmed
+2026-01-16,13:15,14:15,Pipeline Review,No,pipeline,Sales Ops;Regional VP,yes,declined
+2026-01-19,08:00,09:00,Team Coaching,No,team,Revenue Ops;Sales Rep,yes,confirmed
+2026-01-19,09:10,10:10,Team Coaching,No,team,Revenue Ops,yes,confirmed
+2026-01-19,10:40,11:10,Pipeline Review,No,pipeline,East Sales Director;Enablement Lead,yes,confirmed
+2026-01-19,11:10,12:10,Team Coaching,No,team,Revenue Ops;Sales Rep,yes,confirmed
+2026-01-19,12:25,13:10,Team Coaching,No,team,East Sales Director;Sales Rep,yes,confirmed
+2026-01-19,13:40,14:25,Team Coaching,No,team,East Sales Director;West Sales Director,yes,confirmed
+2026-01-19,14:35,15:35,Pipeline Review,No,pipeline,Account Team;West Sales Director,yes,confirmed
+2026-01-19,16:05,16:50,Team Coaching,No,team,Regional VP;Revenue Ops,yes,confirmed
+2026-01-20,08:00,09:00,Team Coaching,No,team,Regional VP;Enablement Lead,yes,confirmed
+2026-01-20,09:00,09:45,Team Coaching,No,team,Account Team;Sales Rep;Sales Ops,yes,cancelled
+2026-01-20,09:55,10:25,Team Coaching,No,team,Revenue Ops,yes,confirmed
+2026-01-20,10:40,11:10,Leadership Sync,No,leadership,CRO;Marketing VP,yes,confirmed
+2026-01-20,11:25,12:25,Team Coaching,No,team,West Sales Director;Regional VP,yes,confirmed
+2026-01-20,12:25,13:10,Team Coaching,No,team,Enablement Lead;Regional VP;Sales Rep,yes,confirmed
+2026-01-20,13:25,14:10,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-20,14:25,15:10,Team Coaching,No,team,Sales Ops;Account Team,yes,confirmed
+2026-01-21,08:00,08:30,Pipeline Review,No,pipeline,Revenue Ops,yes,confirmed
+2026-01-21,08:40,09:25,Pipeline Review,No,pipeline,West Sales Director;Account Team;Regional VP,yes,confirmed
+2026-01-21,09:40,10:25,Team Coaching,No,team,Enablement Lead;East Sales Director,yes,confirmed
+2026-01-21,10:25,11:25,Team Coaching,No,team,Enablement Lead;Revenue Ops,yes,confirmed
+2026-01-21,11:25,12:25,Team Coaching,No,team,Sales Ops;West Sales Director,yes,cancelled
+2026-01-21,12:25,12:55,Team Coaching,No,team,Account Team;Sales Ops,yes,confirmed
+2026-01-21,13:05,13:50,Team Coaching,No,team,East Sales Director,yes,confirmed
+2026-01-21,14:05,14:50,Team Coaching,No,team,East Sales Director;West Sales Director;Revenue Ops,yes,declined
+2026-01-22,08:00,08:30,Pipeline Review,No,pipeline,West Sales Director;Sales Ops;Enablement Lead,yes,confirmed
+2026-01-22,08:40,09:25,Team Coaching,No,team,Regional VP;Sales Ops,yes,confirmed
+2026-01-22,09:40,10:10,Team Coaching,No,team,West Sales Director;Sales Ops,yes,confirmed
+2026-01-22,10:10,10:40,Team Coaching,No,team,Regional VP;Revenue Ops,yes,confirmed
+2026-01-22,10:50,11:20,Team Coaching,No,team,Enablement Lead;Account Team;Sales Ops,yes,confirmed
+2026-01-22,11:20,12:05,Pipeline Review,No,pipeline,Sales Rep;Regional VP,yes,confirmed
+2026-01-22,12:20,13:20,Team Coaching,No,team,Sales Rep,yes,confirmed
+2026-01-22,13:50,14:20,Team Coaching,No,team,Account Team;Sales Rep,yes,confirmed
+2026-01-23,08:00,08:45,Pipeline Review,No,pipeline,East Sales Director,no,confirmed
+2026-01-23,08:45,09:30,Team Coaching,No,team,East Sales Director;Revenue Ops;Sales Ops,yes,confirmed
+2026-01-23,09:40,10:25,Team Coaching,No,team,Account Team;Enablement Lead,yes,cancelled
+2026-01-23,10:40,11:10,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-23,11:10,11:55,Team Coaching,No,team,Sales Ops;Account Team,yes,confirmed
+2026-01-23,11:55,12:25,Pipeline Review,No,pipeline,West Sales Director;East Sales Director,yes,confirmed
+2026-01-23,12:25,12:55,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-26,08:00,08:45,Team Coaching,No,team,Sales Ops;East Sales Director;Sales Rep,yes,confirmed
+2026-01-26,08:55,09:40,Team Coaching,No,team,Sales Ops;West Sales Director;East Sales Director,yes,confirmed
+2026-01-26,09:50,10:50,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-26,11:05,12:05,Team Coaching,No,team,Sales Rep;Regional VP;West Sales Director,yes,confirmed
+2026-01-26,12:15,12:45,Pipeline Review,No,pipeline,Revenue Ops;Sales Ops,yes,confirmed
+2026-01-26,12:55,13:25,Team Coaching,No,team,East Sales Director;West Sales Director,yes,confirmed
+2026-01-26,13:35,14:05,Pipeline Review,No,pipeline,East Sales Director;Regional VP;Sales Rep,yes,confirmed
+2026-01-27,08:00,08:30,Team Coaching,No,team,Sales Ops;Account Team;West Sales Director,yes,confirmed
+2026-01-27,08:40,09:25,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-27,09:55,10:25,Team Coaching,No,team,Regional VP;Enablement Lead;West Sales Director,yes,confirmed
+2026-01-27,10:25,11:25,Team Coaching,No,team,Sales Ops;Regional VP;Sales Rep,yes,confirmed
+2026-01-27,11:40,12:10,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-27,12:40,13:10,Team Coaching,No,team,West Sales Director;Account Team;Sales Rep,yes,confirmed
+2026-01-27,13:40,14:25,Team Coaching,No,team,Account Team,yes,confirmed
+2026-01-27,14:25,15:10,Team Coaching,No,team,Enablement Lead;West Sales Director;East Sales Director,yes,confirmed
+2026-01-27,15:25,16:25,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-28,08:00,09:00,Team Coaching,No,team,East Sales Director;Sales Rep,yes,confirmed
+2026-01-28,09:00,10:00,Leadership Sync,No,leadership,CRO;CFO,no,confirmed
+2026-01-28,10:15,11:15,Leadership Sync,No,leadership,Finance;Legal,yes,confirmed
+2026-01-28,11:30,12:30,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-28,13:00,13:45,Pipeline Review,No,pipeline,Sales Ops;Sales Rep;East Sales Director,no,confirmed
+2026-01-28,14:00,14:30,Team Coaching,No,team,Regional VP,yes,confirmed
+2026-01-28,15:00,16:00,Team Coaching,No,team,Revenue Ops;Sales Rep;West Sales Director,yes,confirmed
+2026-01-28,16:00,16:45,Team Coaching,No,team,Account Team;Sales Rep;West Sales Director,yes,confirmed
+2026-01-28,16:45,17:30,Team Coaching,No,team,East Sales Director,yes,confirmed
+2026-01-29,08:00,08:30,Pipeline Review,No,pipeline,Sales Rep;West Sales Director;Enablement Lead,yes,confirmed
+2026-01-29,08:45,09:45,Pipeline Review,No,pipeline,Regional VP,yes,confirmed
+2026-01-29,09:45,10:45,Team Coaching,No,team,Sales Rep;West Sales Director,no,confirmed
+2026-01-29,11:15,12:15,Pipeline Review,No,pipeline,East Sales Director,yes,confirmed
+2026-01-29,12:45,13:45,Team Coaching,No,team,East Sales Director,yes,confirmed
+2026-01-29,14:00,15:00,Team Coaching,No,team,Revenue Ops;Sales Ops,yes,cancelled
+2026-01-29,15:15,16:00,Team Coaching,No,team,Account Team;Regional VP,yes,confirmed
+2026-01-29,16:00,16:45,Team Coaching,No,team,East Sales Director,yes,confirmed
+2026-01-29,16:45,17:30,Team Coaching,No,team,Sales Ops;Enablement Lead;Revenue Ops,yes,declined
+2026-01-30,08:00,08:45,Team Coaching,No,team,Revenue Ops;Sales Ops;Enablement Lead,yes,confirmed
+2026-01-30,08:45,09:15,Team Coaching,No,team,East Sales Director;Enablement Lead;West Sales Director,yes,confirmed
+2026-01-30,09:30,10:30,Team Coaching,No,team,East Sales Director;Revenue Ops;Enablement Lead,yes,confirmed
+2026-01-30,10:30,11:00,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-30,11:00,11:30,Team Coaching,No,team,Revenue Ops,yes,confirmed
+2026-01-30,11:45,12:45,Leadership Sync,No,leadership,Product VP;CFO,yes,confirmed
+2026-01-30,12:45,13:45,Leadership Sync,No,leadership,Finance,yes,confirmed
+2026-01-30,14:00,15:00,Team Coaching,No,team,Sales Ops;Sales Rep;Regional VP,yes,confirmed

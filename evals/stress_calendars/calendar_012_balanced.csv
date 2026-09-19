@@ -1,0 +1,105 @@
+date,start_time,end_time,event_title,recurring,category,attendees,leader_attending,status
+2026-01-05,08:00,08:30,Team Coaching,No,team,Sales Ops,yes,confirmed
+2026-01-05,08:30,09:15,Team Coaching,No,team,Revenue Ops;East Sales Director;Sales Ops,yes,confirmed
+2026-01-05,09:45,10:45,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-05,11:15,11:45,Pipeline Review,No,pipeline,Regional VP,yes,confirmed
+2026-01-05,11:45,12:30,Internal Working Session,No,internal,West Sales Director;Revenue Ops,no,confirmed
+2026-01-06,08:00,09:00,Pipeline Review,No,pipeline,Revenue Ops;Sales Rep;West Sales Director,yes,confirmed
+2026-01-06,09:30,10:30,Forecast Review,No,forecast,Account Team;Regional VP,yes,confirmed
+2026-01-06,10:30,11:00,Team Coaching,No,team,Sales Rep,yes,confirmed
+2026-01-06,11:00,12:00,Leadership Sync,No,leadership,CRO,yes,confirmed
+2026-01-06,12:00,12:45,Forecast Review,No,forecast,Account Team;Enablement Lead,yes,confirmed
+2026-01-06,12:45,13:15,Team Coaching,No,team,Regional VP;Enablement Lead,yes,confirmed
+2026-01-07,08:00,09:00,Leadership Sync,No,leadership,CRO;Product VP,yes,confirmed
+2026-01-07,09:15,09:45,Learning Block,No,learning,,yes,confirmed
+2026-01-07,09:45,10:30,Team Coaching,No,team,Regional VP;Account Team;Enablement Lead,yes,confirmed
+2026-01-07,10:30,11:00,Team Coaching,No,team,Account Team,yes,declined
+2026-01-07,11:00,11:45,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-08,08:00,09:00,Learning Block,No,learning,,yes,confirmed
+2026-01-08,09:00,09:30,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-08,09:30,10:15,Leadership Sync,No,leadership,CRO;CFO,yes,confirmed
+2026-01-08,10:30,11:00,Pipeline Review,No,pipeline,Enablement Lead,yes,confirmed
+2026-01-08,11:10,11:40,Learning Block,No,learning,,yes,confirmed
+2026-01-08,11:50,12:50,Learning Block,No,learning,,no,confirmed
+2026-01-09,08:00,09:00,Learning Block,No,learning,,yes,confirmed
+2026-01-09,09:00,09:30,Internal Working Session,No,internal,West Sales Director;Regional VP;Sales Ops,yes,confirmed
+2026-01-09,09:45,10:30,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-09,10:45,11:15,Internal Working Session,No,internal,Finance;Account Team;West Sales Director,yes,confirmed
+2026-01-09,11:15,12:15,Forecast Review,No,forecast,Enablement Lead;Sales Rep,yes,confirmed
+2026-01-12,08:00,08:30,Pipeline Review,No,pipeline,Enablement Lead;Regional VP;Sales Ops,yes,confirmed
+2026-01-12,08:40,09:10,Learning Block,No,learning,,yes,confirmed
+2026-01-12,09:20,09:50,Forecast Review,No,forecast,Sales Ops;Regional VP,yes,confirmed
+2026-01-12,10:20,11:20,Forecast Review,No,forecast,Sales Ops;Account Team;Enablement Lead,yes,confirmed
+2026-01-13,08:00,09:00,Customer / Account Review,No,customer,Customer;Regional VP;Account Team,yes,confirmed
+2026-01-13,09:30,10:15,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-13,10:15,11:00,Customer / Account Review,No,customer,Customer;East Sales Director;Sales Rep,yes,confirmed
+2026-01-13,11:00,11:30,Forecast Review,No,forecast,West Sales Director;Sales Rep;Account Team,yes,confirmed
+2026-01-13,11:30,12:15,Forecast Review,No,forecast,Sales Rep;East Sales Director,yes,confirmed
+2026-01-14,08:00,09:00,Leadership Sync,No,leadership,Marketing VP,yes,confirmed
+2026-01-14,09:00,10:00,Pipeline Review,No,pipeline,Sales Rep,yes,confirmed
+2026-01-14,10:00,11:00,Internal Working Session,No,internal,Enablement Lead;Finance,yes,confirmed
+2026-01-14,11:00,11:45,Team Coaching,No,team,Sales Rep;Account Team;Enablement Lead,no,confirmed
+2026-01-14,12:15,13:00,Leadership Sync,No,leadership,Legal;CFO,yes,confirmed
+2026-01-14,13:00,13:45,Leadership Sync,No,leadership,CFO;Marketing VP,yes,confirmed
+2026-01-15,08:00,08:30,Learning Block,No,learning,,yes,confirmed
+2026-01-15,09:00,10:00,Leadership Sync,No,leadership,CRO;Legal,yes,confirmed
+2026-01-15,10:15,10:45,Learning Block,No,learning,,yes,confirmed
+2026-01-15,11:15,11:45,Forecast Review,No,forecast,Regional VP;Sales Rep,yes,confirmed
+2026-01-15,11:45,12:15,Leadership Sync,No,leadership,CRO;Product VP,yes,confirmed
+2026-01-15,12:45,13:45,Leadership Sync,No,leadership,Finance,yes,confirmed
+2026-01-16,08:00,09:00,Customer / Account Review,No,customer,Customer;Revenue Ops,yes,declined
+2026-01-16,09:10,09:40,Internal Working Session,No,internal,CRO;Revenue Ops;Marketing VP,yes,confirmed
+2026-01-16,09:50,10:35,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-16,10:45,11:45,Leadership Sync,No,leadership,CFO;Finance,yes,confirmed
+2026-01-16,12:00,12:45,Forecast Review,No,forecast,Enablement Lead,yes,confirmed
+2026-01-19,08:00,09:00,Learning Block,No,learning,,yes,confirmed
+2026-01-19,09:00,09:45,Leadership Sync,No,leadership,CFO;CRO,yes,confirmed
+2026-01-19,09:55,10:25,Leadership Sync,No,leadership,Finance,yes,cancelled
+2026-01-19,10:25,11:25,Strategy & Planning,No,strategy,,yes,cancelled
+2026-01-19,11:25,12:25,Pipeline Review,No,pipeline,Sales Ops;Account Team;Enablement Lead,yes,confirmed
+2026-01-19,12:40,13:25,Internal Working Session,No,internal,Sales Ops,yes,confirmed
+2026-01-20,08:00,08:30,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-20,08:30,09:15,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-20,09:15,10:00,Forecast Review,No,forecast,Regional VP,yes,confirmed
+2026-01-20,10:15,11:00,Learning Block,No,learning,,yes,confirmed
+2026-01-21,08:00,08:30,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-21,08:30,09:15,Forecast Review,No,forecast,Revenue Ops;Account Team;Enablement Lead,no,confirmed
+2026-01-21,09:45,10:45,Strategy & Planning,No,strategy,,yes,cancelled
+2026-01-21,11:00,12:00,Internal Working Session,No,internal,Enablement Lead;CFO;Sales Rep,yes,confirmed
+2026-01-21,12:00,12:30,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-22,08:00,08:45,Leadership Sync,No,leadership,Marketing VP,yes,confirmed
+2026-01-22,08:45,09:15,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-22,09:30,10:15,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-22,10:25,11:10,Leadership Sync,No,leadership,Marketing VP;Legal,yes,confirmed
+2026-01-23,08:00,08:45,Forecast Review,No,forecast,Revenue Ops;Enablement Lead;West Sales Director,yes,confirmed
+2026-01-23,08:45,09:30,Team Coaching,No,team,East Sales Director;Enablement Lead;Revenue Ops,yes,confirmed
+2026-01-23,10:00,11:00,Leadership Sync,No,leadership,Legal;CFO,yes,confirmed
+2026-01-23,11:00,11:45,Team Coaching,No,team,Account Team;Regional VP,yes,confirmed
+2026-01-23,12:15,13:15,Learning Block,No,learning,,yes,confirmed
+2026-01-23,13:45,14:30,Leadership Sync,No,leadership,CFO,yes,confirmed
+2026-01-26,08:00,08:30,Team Coaching,No,team,West Sales Director;Sales Rep;East Sales Director,yes,cancelled
+2026-01-26,08:45,09:45,Customer / Account Review,No,customer,Customer;Sales Ops;Sales Rep,yes,confirmed
+2026-01-26,10:15,10:45,Internal Working Session,No,internal,Revenue Ops,yes,confirmed
+2026-01-26,11:15,11:45,Pipeline Review,No,pipeline,Account Team;Enablement Lead;Sales Ops,yes,confirmed
+2026-01-26,12:15,12:45,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-27,08:00,09:00,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-27,09:00,09:45,Forecast Review,No,forecast,Account Team;Sales Ops,yes,confirmed
+2026-01-27,09:45,10:45,Pipeline Review,No,pipeline,East Sales Director,yes,confirmed
+2026-01-27,10:55,11:25,Pipeline Review,No,pipeline,East Sales Director,yes,confirmed
+2026-01-27,11:55,12:55,Pipeline Review,No,pipeline,West Sales Director;East Sales Director;Enablement Lead,yes,confirmed
+2026-01-27,13:10,13:40,Leadership Sync,No,leadership,Marketing VP,yes,confirmed
+2026-01-28,08:00,08:30,Strategy & Planning,No,strategy,,no,confirmed
+2026-01-28,08:30,09:30,Pipeline Review,No,pipeline,Enablement Lead;Regional VP;Sales Rep,yes,confirmed
+2026-01-28,09:30,10:15,Leadership Sync,No,leadership,CFO,yes,confirmed
+2026-01-28,10:15,10:45,Forecast Review,No,forecast,Revenue Ops;Regional VP;Sales Ops,yes,confirmed
+2026-01-28,10:55,11:25,Pipeline Review,No,pipeline,Sales Rep,yes,confirmed
+2026-01-29,08:00,08:30,Forecast Review,No,forecast,Sales Rep;West Sales Director,yes,confirmed
+2026-01-29,08:30,09:30,Forecast Review,No,forecast,Sales Ops,yes,confirmed
+2026-01-29,09:30,10:15,Internal Working Session,No,internal,Legal;Regional VP;Sales Rep,yes,confirmed
+2026-01-29,10:15,10:45,Learning Block,No,learning,,yes,confirmed
+2026-01-29,10:45,11:30,Learning Block,No,learning,,yes,confirmed
+2026-01-30,08:00,09:00,Team Coaching,No,team,Revenue Ops,yes,confirmed
+2026-01-30,09:10,09:55,Team Coaching,No,team,Sales Ops;Sales Rep,yes,confirmed
+2026-01-30,10:05,10:35,Learning Block,No,learning,,yes,confirmed
+2026-01-30,11:05,11:35,Customer / Account Review,No,customer,Customer,yes,confirmed
+2026-01-30,12:05,12:35,Learning Block,No,learning,,yes,confirmed

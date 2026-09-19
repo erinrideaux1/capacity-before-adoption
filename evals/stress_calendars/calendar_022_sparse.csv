@@ -1,0 +1,24 @@
+date,start_time,end_time,event_title,recurring,category,attendees,leader_attending,status
+2026-01-05,08:00,09:00,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-05,09:30,10:00,Pipeline Review,No,pipeline,East Sales Director;Revenue Ops;Sales Ops,yes,declined
+2026-01-05,10:00,10:45,Team Coaching,No,team,Regional VP,yes,confirmed
+2026-01-07,08:00,09:00,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-07,09:10,10:10,Learning Block,No,learning,,yes,confirmed
+2026-01-09,08:00,09:00,Internal Working Session,No,internal,Product VP,yes,confirmed
+2026-01-12,08:00,08:45,Leadership Sync,No,leadership,Marketing VP;Legal,yes,confirmed
+2026-01-12,08:45,09:15,Pipeline Review,No,pipeline,Account Team;Sales Rep;Enablement Lead,yes,confirmed
+2026-01-14,08:00,08:30,Forecast Review,No,forecast,Regional VP;Account Team,yes,confirmed
+2026-01-14,08:30,09:15,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-14,09:25,10:10,Learning Block,No,learning,,no,confirmed
+2026-01-16,08:00,08:45,Pipeline Review,No,pipeline,Revenue Ops;Enablement Lead;West Sales Director,yes,confirmed
+2026-01-16,09:00,09:45,Leadership Sync,No,leadership,CFO;Finance,yes,confirmed
+2026-01-19,08:00,08:30,Internal Working Session,No,internal,Sales Ops;Sales Rep;Revenue Ops,yes,confirmed
+2026-01-19,08:40,09:25,Learning Block,No,learning,,yes,confirmed
+2026-01-21,08:00,08:45,Forecast Review,No,forecast,Regional VP,yes,confirmed
+2026-01-21,08:55,09:55,Internal Working Session,No,internal,Legal;West Sales Director;Sales Ops,yes,confirmed
+2026-01-26,08:00,09:00,Strategy & Planning,No,strategy,,yes,confirmed
+2026-01-26,09:00,09:30,Pipeline Review,No,pipeline,Sales Rep;West Sales Director;Sales Ops,no,confirmed
+2026-01-26,09:30,10:30,Team Coaching,No,team,Regional VP;Enablement Lead;East Sales Director,yes,confirmed
+2026-01-28,08:00,08:30,Internal Working Session,No,internal,West Sales Director;CRO,yes,confirmed
+2026-01-28,08:40,09:25,Learning Block,No,learning,,yes,confirmed
+2026-01-30,08:00,08:45,Team Coaching,No,team,Revenue Ops;Regional VP,yes,confirmed
